@@ -15,7 +15,8 @@
 ![image](https://github.com/naveen5655/bookStore/assets/89301294/2d25168a-6e31-41f1-9d61-29078c9e44a9)
 
 ## Delete Books
-![image](https://github.com/naveen5655/bookStore/assets/89301294/10e8aba6-db48-426c-b86a-c9caf46bed45)
+![image](https://github.com/naveen5655/bookStore/assets/89301294/f376b271-0360-450b-87d7-089984d0fa10)
+
 
 ## Thank you
 
