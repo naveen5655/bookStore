@@ -18,7 +18,7 @@
 ![image](https://github.com/naveen5655/bookStore/assets/89301294/f376b271-0360-450b-87d7-089984d0fa10)
 
 
-## Thank you
+## Thank you for visiting the repository
 
 
 
